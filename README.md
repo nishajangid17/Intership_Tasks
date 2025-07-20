@@ -79,3 +79,15 @@ python random_guessing_game.py
 ⭐ Feel free to explore, fork, or contribute!
 📩 Connect with me:  on  linkedin 🔗 https://www.linkedin.com/in/nisha-sharma-833412251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 gmail:nisharmanishu1@gmail.com
+
+TASK 2 :🪨📄✂️ Rock Paper Scissors Game - Python
+A simple terminal-based Rock, Paper, Scissors game built using Python. This project allows the user to play against the computer in the classic hand game of chance!
+
+📝 Game Rules
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
+
+Same choices = Draw
